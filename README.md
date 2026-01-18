@@ -2,7 +2,7 @@
 
 <p align="center">
    <a href="mailto:aniqueazhar985@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-aniqueazhar915%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" alt="Email">
+    <img src="https://img.shields.io/badge/Email-aniqueazhar985%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" alt="Email">
   </a>
   <a href="https://x.com/MAniqueAzhar1" target="_blank" style="text-decoration:none">
     <img src="https://img.shields.io/badge/Twitter-%40MAniqueAzhar1-1DA1F2?style=flat&logo=x&logoColor=white&color=1a1a1a" alt="Twitter">
