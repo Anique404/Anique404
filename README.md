@@ -9,9 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-📍 Islamabad, Pakistan
-</p>
 
 <h4 align="center">Languages</h4>
 <p align="center">
