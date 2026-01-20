@@ -15,8 +15,8 @@
 
 ## 💻 **Tech Stack**
 <div align="center">
-💻 Programming Languages
-
+  
+### 💻 **Pragramming Languages**
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" title="C++">
   <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" title="Java">
@@ -48,9 +48,13 @@
 
 ### 🛠️ **Tools & Technologies**
 <p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" title="VS Code">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" title="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" title="GitHub">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" title="Postman">
+  
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/Dev%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev C++">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
 </div>
