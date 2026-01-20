@@ -3,16 +3,17 @@
 
 <p align="center">
   <a href="mailto:aniqueazhar985@gmail.com">
-    <img src="https://img.shields.io/badge/📧%20Email-aniqueazhar985%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/%20Email-aniqueazhar985%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://x.com/MAniqueAzhar1" target="_blank">
-    <img src="https://img.shields.io/badge/🐦%20Twitter-%40MAniqueAzhar1-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/%20Twitter-%40MAniqueAzhar1-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
 
 ---
 
 ## 💻 **Tech Stack**
+<center>
 
 ### **Languages**
 <p>
@@ -51,3 +52,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" title="GitHub">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" title="Postman">
 </p>
+</center>
