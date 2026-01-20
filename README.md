@@ -1,65 +1,59 @@
-<h3 align="center">Hi, I'm Muhammad Anique Azhar, A Full Stack Developer</h3>
+<h1 align="center">👨‍💻 Muhammad Anique Azhar</h1>
+<h3 align="center">Full Stack Developer | Passionate about building innovative solutions</h3>
 
 <p align="center">
-   <a href="mailto:aniqueazhar985@gmail.com" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Email-aniqueazhar985%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=1a1a1a" alt="Email">
+  <a href="mailto:aniqueazhar985@gmail.com">
+    <img src="https://img.shields.io/badge/📧%20Email-aniqueazhar985%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://x.com/MAniqueAzhar1" target="_blank" style="text-decoration:none">
-    <img src="https://img.shields.io/badge/Twitter-%40MAniqueAzhar1-1DA1F2?style=flat&logo=x&logoColor=white&color=1a1a1a" alt="Twitter">
+  <a href="https://x.com/MAniqueAzhar1" target="_blank">
+    <img src="https://img.shields.io/badge/🐦%20Twitter-%40MAniqueAzhar1-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/💼%20Portfolio-Coming%20Soon-green?style=for-the-badge" alt="Portfolio">
   </a>
 </p>
 
+---
 
-<h4 align="center">Languages</h4>
+## 🚀 Technical Stack
+
+### 💻 **Programming Languages**
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
-<h4 align="center">Frontend</h4>
+### 🎨 **Frontend Development**
 <p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-10B981?logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaSwing-ED8B00?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Swing">
 </p>
 
-<h4 align="center">Backend</h4>
+### ⚙️ **Backend Development**
 <p align="center">
-  <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
-<h4 align="center">Databases</h4>
+### 🗄️ **Databases**
 <p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Access_Database-A4373A?logo=microsoft-access&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/MS%20Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white" alt="MS Access">
 </p>
 
-<h4 align="center">Tools</h4>
+### 🛠️ **Tools & Technologies**
 <p align="center">
- <h4 align="center">🛠️ Development Tools</h4>
-<p align="center">
-  <!-- IDEs -->
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white">
-  <img src="https://img.shields.io/badge/Dev_C++-00599C?logo=cplusplus&logoColor=white">
-  
-  <!-- Version Control -->
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  
-  <!-- Database Tools -->
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
-  
-  <!-- API Tools -->
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white" alt="PyCharm">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Eclipse">
+  <img src="https://img.shields.io/badge/Dev%20C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="Dev C++">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
 </p>
-</p>
-
