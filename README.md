@@ -60,7 +60,6 @@
   
   <!-- API Tools -->
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white">
 </p>
 </p>
 
