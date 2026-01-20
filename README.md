@@ -1,12 +1,13 @@
 <h1 align="center">👨‍💻 Muhammad Anique Azhar</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer  | Passionate about building innovative solutions</h3>
 
 <p align="center">
   <a href="mailto:aniqueazhar985@gmail.com">
-    <img src="https://img.shields.io/badge/%20Email-aniqueazhar985%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/📧%20Email-aniqueazhar985%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://x.com/MAniqueAzhar1" target="_blank">
-    <img src="https://img.shields.io/badge/%20Twitter-%40MAniqueAzhar1-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/🐦%20Twitter-%40MAniqueAzhar1-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter">
   </a>
 </p>
 
