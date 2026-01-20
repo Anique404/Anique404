@@ -15,7 +15,7 @@
 
 ## 💻 **Tech Stack**
 <div align="center">
-💻 **Programming Languages**
+💻 Programming Languages
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" title="C++">
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" title="JavaScript">
 </p>
 
-### **Frontend**
+### 🎨 **Frontend Development**
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" title="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" title="CSS3">
@@ -32,21 +32,21 @@
   <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?logo=java&logoColor=white" title="Java Swing">
 </p>
 
-### **Backend**
+### ⚙️ **Backend Development**
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" title="Django">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" title="Flask">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" title="Node.js">
 </p>
 
-### **Databases**
+### 🗄️ **Databases**
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" title="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" title="MongoDB">
   <img src="https://img.shields.io/badge/MS%20Access-A4373A?logo=microsoft-access&logoColor=white" title="MS Access">
 </p>
 
-### **Tools**
+### 🛠️ **Tools & Technologies**
 <p>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" title="VS Code">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" title="Git">
