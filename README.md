@@ -42,9 +42,25 @@
 
 <h4 align="center">Tools</h4>
 <p align="center">
+ <h4 align="center">🛠️ Development Tools</h4>
+<p align="center">
+  <!-- IDEs -->
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white">
+  <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white">
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white">
+  <img src="https://img.shields.io/badge/Dev_C++-00599C?logo=cplusplus&logoColor=white">
+  
+  <!-- Version Control -->
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Mongoose-47A248?logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white">
+  
+  <!-- Database Tools -->
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white">
+  
+  <!-- API Tools -->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/Insomnia-4000BF?logo=insomnia&logoColor=white">
+</p>
 </p>
 
