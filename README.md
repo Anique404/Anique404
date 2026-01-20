@@ -13,7 +13,7 @@
 ---
 
 ## 💻 **Tech Stack**
-<center>
+<div align="center">
 
 ### **Languages**
 <p>
@@ -52,4 +52,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" title="GitHub">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" title="Postman">
 </p>
-</center>
+</div>
