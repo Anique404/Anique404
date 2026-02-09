@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Muhammad Anique Azhar</h1>
+<h1 align="center">Hi, I am Muhammad Anique Azhar</h1>
 <h3 align="center">Full Stack Developer  | Passionate about building innovative solutions</h3>
 
 <p align="center">
