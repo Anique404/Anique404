@@ -3,17 +3,19 @@
 
 <p align="center">
   <a href="mailto:aniqueazhar985@gmail.com">
-    <img src="https://img.shields.io/badge/Email-lightgrey?style=flat&logo=gmail&logoColor=black" alt="Email">
+    <img src="https://img.shields.io/badge/Email-aniqueazhar985%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://x.com/MAniqueAzhar1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-lightgrey?style=flat&logo=x&logoColor=black" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-@MAniqueAzhar1-111111?style=flat-square&logo=x&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/m-anique-azhar-407499349/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Anique%20Azhar-111111?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
+
 
 
 ---
