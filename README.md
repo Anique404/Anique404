@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I am Muhammad Anique Azhar</h2>
-<h4 align="center">Full Stack Developer  | Passionate about building innovative solutions</h4>
+<h3 align="center">Full Stack Developer  | Passionate about building innovative solutions</h3>
 
 <p align="center">
   <a href="mailto:aniqueazhar985@gmail.com">
@@ -19,7 +19,7 @@
 
 
 ---
-<h2>💻 Tech Stack</h2>
+<h3>💻 Tech Stack</h3>
 
 
   
