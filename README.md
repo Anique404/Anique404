@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Muhammad Anique Azhar</h1>
+<h2 align="center">Hi, I am Muhammad Anique Azhar</h2>
 <h3 align="center">Full Stack Developer  | Passionate about building innovative solutions</h3>
 
 <p align="center">
@@ -19,8 +19,8 @@
 
 
 ---
+<h2 align="center">💻 Tech Stack</h2>
 
-## 💻 **Tech Stack**
 
   
 ### 💻 Programming Languages        🎨 Frontend Development
