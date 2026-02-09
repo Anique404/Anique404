@@ -23,7 +23,7 @@
 ## 💻 **Tech Stack**
 
   
-### 💻 Programming Languages      🎨 Frontend Development
+### 💻 Programming Languages        🎨 Frontend Development
 
 <p>
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
