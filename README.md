@@ -1,8 +1,9 @@
 <h2 align="center">Hi, I am Muhammad Anique Azhar</h2>
 <h3 align="center">Full Stack Developer  | Passionate about building innovative solutions</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anique404&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anique404&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="800" height="120">
 </p>
+
 
 <p align="center">
   <a href="mailto:aniqueazhar985@gmail.com">
