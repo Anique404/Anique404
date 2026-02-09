@@ -3,18 +3,18 @@
 
 <p align="center">
   <a href="mailto:aniqueazhar985@gmail.com">
-    <img src="https://img.shields.io/badge/%20Email-aniqueazhar985%40gmail.com-red?logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/Email-lightgrey?style=flat&logo=gmail&logoColor=black" alt="Email">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://x.com/MAniqueAzhar1" target="_blank">
-    <img src="https://img.shields.io/badge/%20Twitter-%40MAniqueAzhar1-blue?logo=x&logoColor=white" alt="Twitter">
+    <img src="https://img.shields.io/badge/Twitter-lightgrey?style=flat&logo=x&logoColor=black" alt="Twitter">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/m-anique-azhar-407499349/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-M.%20Anique%20Azhar-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
+    <img src="https://img.shields.io/badge/LinkedIn-lightgrey?style=flat&logo=linkedin&logoColor=black" alt="LinkedIn">
+  </a>
 </p>
+
 
 ---
 
