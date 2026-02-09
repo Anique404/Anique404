@@ -49,15 +49,19 @@
 
 
 
-### ⚙️ **Backend Development**
+### ⚙️ Backend Development         🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" title="Django">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" title="Flask">
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" title="Node.js">
-</p>
-
-### 🗄️ **Databases**
-<p>
+ &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" title="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" title="MongoDB">
   <img src="https://img.shields.io/badge/MS%20Access-A4373A?logo=microsoft-access&logoColor=white" title="MS Access">
