@@ -38,6 +38,7 @@
   &nbsp;&nbsp;
   &nbsp;&nbsp;
   &nbsp;
+ 
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white">
@@ -47,7 +48,7 @@
 
 
 
-### ⚙️ Backend Development          🗄️ Databases
+### ⚙️ Backend Development                     &nbsp; &nbsp;    🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" title="Django">
@@ -60,7 +61,13 @@
   &nbsp;
   &nbsp;&nbsp;
   &nbsp;&nbsp;
+  &nbsp; &nbsp;
   &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" title="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" title="MongoDB">
   <img src="https://img.shields.io/badge/MS%20Access-A4373A?logo=microsoft-access&logoColor=white" title="MS Access">
