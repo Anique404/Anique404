@@ -21,23 +21,36 @@
 ---
 
 ## 💻 **Tech Stack**
-<div align="center">
+
   
-### 💻 **Pragramming Languages**
+### 💻 Programming Languages      🎨 Frontend Development
+
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" title="C++">
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" title="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" title="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" title="JavaScript">
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;&nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;
+  &nbsp;  &nbsp;
+  &nbsp;&nbsp;
+ 
+ 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?logo=java&logoColor=white">
 </p>
 
-### 🎨 **Frontend Development**
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" title="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" title="CSS3">
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white" title="Tailwind CSS">
-  <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?logo=java&logoColor=white" title="Java Swing">
-</p>
+
+
 
 ### ⚙️ **Backend Development**
 <p>
