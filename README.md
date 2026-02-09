@@ -5,23 +5,6 @@
 </p>
 
 
-<p align="center">
-  <a href="mailto:aniqueazhar985@gmail.com">
-    <img src="https://img.shields.io/badge/Email-aniqueazhar985%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/MAniqueAzhar1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-@MAniqueAzhar1-111111?style=flat-square&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/m-anique-azhar-407499349/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Anique%20Azhar-111111?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
-
-
-
 ## 💻 **Tech Stack**
 
 
@@ -87,4 +70,18 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman">
+</p>
+
+<p align="center">
+  <a href="mailto:aniqueazhar985@gmail.com">
+    <img src="https://img.shields.io/badge/Email-aniqueazhar985%40gmail.com-111111?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/MAniqueAzhar1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-@MAniqueAzhar1-111111?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/m-anique-azhar-407499349/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Anique%20Azhar-111111?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
