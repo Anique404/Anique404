@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I am Muhammad Anique Azhar</h2>
 <h3 align="center">Full Stack Developer  | Passionate about building innovative solutions</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedazhar25&theme=dark" alt="GitHub Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anique404&theme=dark" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
