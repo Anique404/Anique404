@@ -47,7 +47,7 @@
 
 
 
-### ⚙️ Backend Development      🗄️ Databases
+### ⚙️ Backend Development          🗄️ Databases
 
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" title="Django">
@@ -62,7 +62,7 @@
 
 
 ### 🛠️ **Tools & Technologies**
-<p align="center">
+<p >
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" alt="VS Code">
   <img src="https://img.shields.io/badge/PyCharm-000000?logo=pycharm&logoColor=white" alt="PyCharm">
   <img src="https://img.shields.io/badge/Eclipse-2C2255?logo=eclipseide&logoColor=white" alt="Eclipse">
