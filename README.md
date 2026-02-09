@@ -9,6 +9,11 @@
   <a href="https://x.com/MAniqueAzhar1" target="_blank">
     <img src="https://img.shields.io/badge/%20Twitter-%40MAniqueAzhar1-blue?logo=x&logoColor=white" alt="Twitter">
   </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/m-anique-azhar-407499349/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-M.%20Anique%20Azhar-blue?logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </p>
 
 ---
