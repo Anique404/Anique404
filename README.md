@@ -49,7 +49,7 @@
 
 
 
-### ⚙️ Backend Development     &nbsp;&nbsp;    🗄️ Databases
+### ⚙️ Backend Development     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    🗄️ Databases
 <p>
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white" title="Django">
   <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" title="Flask">
