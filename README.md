@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/Java%20Swing-ED8B00?logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white">
 </p>
 
 
